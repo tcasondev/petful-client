@@ -1,8 +1,8 @@
 # Welcome to Petful!
 
-## Live Link: 
+## Live Link: https://petful-client-rosy.vercel.app/
 
-Server Repo: 
+Server Repo: https://github.com/tcasondev/petful-api
 
 Front-End: `ReactJS, JSX`
 
